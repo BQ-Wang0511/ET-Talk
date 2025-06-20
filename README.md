@@ -18,7 +18,7 @@ I have tested on:
 
 First download the pretrain checkpoint and then run the inference code:
 
-> python styleSync_inference.py --face VIDEO_PATH --audio AUDIO_PATH --ckpt CKPT_PATH --outfile OUT_PATH
+> python et_talk_inference.py --face VIDEO_PATH --audio AUDIO_PATH --ckpt CKPT_PATH --outfile OUT_PATH
 
 The results will be saved in OUT_PATH.
 
