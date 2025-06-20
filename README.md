@@ -24,8 +24,9 @@ The results will be saved in OUT_PATH.
 
 ### Pretrained Checkpoints
 
-[Link]()
+[Link](https://www.modelscope.cn/models/doubikiller/ET-TALK/files)
 
+Download one of the checkpoints and put it in the project directory.
 
 ### License
 
